@@ -1,0 +1,1 @@
+Ideal customer profile - detailed buyer persona

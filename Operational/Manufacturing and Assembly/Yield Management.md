@@ -1,0 +1,1 @@
+Defect reduction and efficiency optimization

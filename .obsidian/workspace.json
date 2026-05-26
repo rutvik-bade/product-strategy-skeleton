@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "2a35b85b27263298",
+    "type": "split",
+    "children": [
+      {
+        "id": "60022423ab13bec4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21ed742e79f851f5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e40b9ca6e96e528d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6b8ec1d8e004bc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47501c15891f8262",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e2979409006f4c7d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4526012df23211d8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 378.5
+  },
+  "right": {
+    "id": "74b4dae4e6c318e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "703e4bfa1ed67143",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0253529cdef7e05a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0415bd5a78d2ecf8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8f530b45cca362bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8fb7887f7e964305",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b8c7ce266f7afcad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "floating": {
+    "id": "dc167a35f442c826",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6809da287190dc98",
+        "type": "window",
+        "children": [
+          {
+            "id": "6a828a9bcfa2b1ac",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a45f60471a754d91",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1390,
+        "y": 24,
+        "width": 697,
+        "height": 1032,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "21ed742e79f851f5",
+  "lastOpenFiles": [
+    "Operational/Operational.md",
+    "Technical/Technical.md",
+    "Business/Product Market Fit/Validation/Quantitative/Quantitative.md",
+    "Business/Product Market Fit/Validation/Quantitative/CAC.md",
+    "Business/Product Market Fit/Validation/Qualitative.md",
+    "Business/Product Market Fit/Validation/Validation.md",
+    "Operational/Post-Launch Support and Lifecycle/Post-Launch Support and Lifecycle.md",
+    "Operational/Post-Launch Support and Lifecycle/Customer Support.md",
+    "Operational/Logistics and Fulfillment/Logistics and Fulfillment.md",
+    "Operational/Logistics and Fulfillment/Last-Mile Delivery.md",
+    "Operational/Logistics and Fulfillment/Distribution Channels.md",
+    "Operational/Logistics and Fulfillment/Freight and Warehousing.md",
+    "Operational/Manufacturing and Assembly/Quality Assurance.md",
+    "Operational/Manufacturing and Assembly/Production Scaling.md",
+    "Operational/Manufacturing and Assembly/Manufacturing and Assembly.md",
+    "Operational/Manufacturing and Assembly/Yield Management.md",
+    "Operational/Supply Chain and Sourcing/Supply Chain and Sourcing.md",
+    "Operational/Supply Chain and Sourcing/Risk Management.md",
+    "Operational/Supply Chain and Sourcing/Cost Optimization.md",
+    "Operational/Supply Chain and Sourcing/Vendor Selection.md",
+    "Operational/Post-Launch Support and Lifecycle",
+    "Operational/Manufacturing and Assembly",
+    "Operational/Logistics and Fulfillment",
+    "Operational/Supply Chain and Sourcing",
+    "Technical/Manufacturing and Compliance Specifications.md",
+    "Untitled.base",
+    "Technical/Design and Physical Specifications/Design and Physical Specifications.md",
+    "Untitled.canvas",
+    "Marketing and Sales/Sales and Distribution Channels/Direct to Customer.md",
+    "Marketing and Sales/Sales and Distribution Channels/Sales and Distribution Channels.md",
+    "Marketing and Sales/Retention and Advocacy.md",
+    "Marketing and Sales/Marketing and Sales.md",
+    "Marketing and Sales/Sales and Distribution Channels",
+    "Marketing and Sales/Demand Generation",
+    "Business/Product Market Fit/Product",
+    "Marketing and Sales/Brand and Positioning",
+    "Technical/Performance and Functional Specifications"
+  ]
+}

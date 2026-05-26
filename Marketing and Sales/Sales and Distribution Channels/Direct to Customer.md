@@ -1,0 +1,1 @@
+Selling directly via website, app or offline stores

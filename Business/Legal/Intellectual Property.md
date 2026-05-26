@@ -1,0 +1,1 @@
+Patents, trademarks, trade secrets, copyrights
