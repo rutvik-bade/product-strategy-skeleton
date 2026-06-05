@@ -3,15 +3,21 @@ Physical product production
 
 
 
-# Production Scaling [[Production Scaling]]
+# [[Production Planning and Control]]
+Demand-to-production planning, capacity control and shop-floor scheduling
+
+
+# [[Production Scaling]]
+
+
+
+# [[Inventory]]
+Raw material, WIP and finished-goods stock tied to production execution
+
+
+# [[Quality Assurance]]
 
 
 
 
-
-# Quality Assurance [[Quality Assurance]]
-
-
-
-
-# Yield Management [[Yield Management]]
+# [[Yield Management]]

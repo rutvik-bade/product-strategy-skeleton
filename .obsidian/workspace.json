@@ -11,10 +11,14 @@
             "id": "21ed742e79f851f5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Business/Quantitative Operating System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quantitative Operating System"
             }
           }
         ]
@@ -176,75 +180,40 @@
       "bases:Create new base": false
     }
   },
-  "floating": {
-    "id": "dc167a35f442c826",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6809da287190dc98",
-        "type": "window",
-        "children": [
-          {
-            "id": "6a828a9bcfa2b1ac",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a45f60471a754d91",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1390,
-        "y": 24,
-        "width": 697,
-        "height": 1032,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "21ed742e79f851f5",
   "lastOpenFiles": [
+    "Business/Pricing/Pricing.md",
+    "Business/Pricing/Value Based.md",
+    "Business/Pricing/Cost Based.md",
+    "Business/Quantitative Operating System.md",
+    "Operational/Manufacturing and Assembly/Production Planning and Control.md",
+    "Business/Product Market Fit/Product Market Fit.md",
+    "Business/Product Market Fit/Validation/Validation.md",
+    "Business/Product Market Fit/Validation/Quantitative/Quantitative.md",
+    "Business/Financial Modelling/Financial Modelling.md",
+    "Business/Financial Modelling/Cash In/Cash In.md",
+    "Business/Financial Modelling/Cash In/Operating Revenue.md",
+    "Business/Financial Modelling/Cash Out.md",
+    "Operational/Manufacturing and Assembly/Manufacturing and Assembly.md",
+    "Operational/Manufacturing and Assembly/Inventory.md",
+    "Operational/Manufacturing and Assembly/Yield Management.md",
+    "Operational/Manufacturing and Assembly/Quality Assurance.md",
+    "Operational/Manufacturing and Assembly/Production Scaling.md",
     "Operational/Operational.md",
     "Technical/Technical.md",
-    "Business/Product Market Fit/Validation/Quantitative/Quantitative.md",
     "Business/Product Market Fit/Validation/Quantitative/CAC.md",
     "Business/Product Market Fit/Validation/Qualitative.md",
-    "Business/Product Market Fit/Validation/Validation.md",
     "Operational/Post-Launch Support and Lifecycle/Post-Launch Support and Lifecycle.md",
     "Operational/Post-Launch Support and Lifecycle/Customer Support.md",
     "Operational/Logistics and Fulfillment/Logistics and Fulfillment.md",
     "Operational/Logistics and Fulfillment/Last-Mile Delivery.md",
     "Operational/Logistics and Fulfillment/Distribution Channels.md",
-    "Operational/Logistics and Fulfillment/Freight and Warehousing.md",
-    "Operational/Manufacturing and Assembly/Quality Assurance.md",
-    "Operational/Manufacturing and Assembly/Production Scaling.md",
-    "Operational/Manufacturing and Assembly/Manufacturing and Assembly.md",
-    "Operational/Manufacturing and Assembly/Yield Management.md",
-    "Operational/Supply Chain and Sourcing/Supply Chain and Sourcing.md",
-    "Operational/Supply Chain and Sourcing/Risk Management.md",
-    "Operational/Supply Chain and Sourcing/Cost Optimization.md",
-    "Operational/Supply Chain and Sourcing/Vendor Selection.md",
     "Operational/Post-Launch Support and Lifecycle",
     "Operational/Manufacturing and Assembly",
     "Operational/Logistics and Fulfillment",
     "Operational/Supply Chain and Sourcing",
-    "Technical/Manufacturing and Compliance Specifications.md",
     "Untitled.base",
-    "Technical/Design and Physical Specifications/Design and Physical Specifications.md",
     "Untitled.canvas",
-    "Marketing and Sales/Sales and Distribution Channels/Direct to Customer.md",
-    "Marketing and Sales/Sales and Distribution Channels/Sales and Distribution Channels.md",
-    "Marketing and Sales/Retention and Advocacy.md",
-    "Marketing and Sales/Marketing and Sales.md",
     "Marketing and Sales/Sales and Distribution Channels",
     "Marketing and Sales/Demand Generation",
     "Business/Product Market Fit/Product",

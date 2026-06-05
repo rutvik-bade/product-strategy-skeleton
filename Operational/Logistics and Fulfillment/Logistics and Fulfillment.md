@@ -1,5 +1,8 @@
 Storage and delivery to customers
 
+# Inventory interface [[Inventory]]
+Finished-goods storage, pick accuracy, stock availability and delivery service levels
+
 
 
 

@@ -1,5 +1,13 @@
 Customer acquisition, conversion and retention
 
+# Revenue engine metrics
+
+- CAC, CLTV and payback period
+- Funnel conversion by stage
+- Channel ROAS and marketing efficiency ratio
+- Win rate, sales cycle length and average order value
+- Repeat purchase rate, churn and advocacy rate
+
 
 
 
